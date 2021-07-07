@@ -1,5 +1,5 @@
 body {
-    background-color: #343233;
+    background-color: #CDCDCD;
     color: black;
 }
 
@@ -13,11 +13,11 @@ h4 {
 }
 
 .navbar {
-    background-color: #584B4F;
+    background-color: #88BBD6;
 }
 
 .jumbotron {
-    background-color: #EAD5B5;
+    background-color: #E9E9E9;
     border: 1px black solid;
 }
 
@@ -46,18 +46,18 @@ h4 {
 }
 
 .nav-pills > a.active {
-    background-color: #4c4145 !important;
+    background-color: #99D3DF !important;
     color: #white !important;
 }
 
 .nav-pills > a:hover {
-    background-color: #4c4145;
+    background-color: #99D3DF;
     color: white;
 }
 
 .nav-pills > a {
     border-radius: 0 !important;
-    color: #c1cad6;
+    color: #E9E9E9;
 }
 
 .top-margin {
@@ -72,7 +72,7 @@ h4 {
 
 .section-content {
     margin-bottom: 1%;
-    background-color: #EAD5B5;
+    background-color: #E9E9E9;
     padding: 50px;
     border: 1px black solid;
 }
